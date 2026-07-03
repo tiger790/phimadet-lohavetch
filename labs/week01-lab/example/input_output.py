@@ -5,11 +5,11 @@ user_name = input("What is your name? ")
 print("Hello,", user_name, "!")
 print("Nice to meet you,", user_name)
 
-# Exercise 2: Input with Numbers
+# Exercise 2: Input with Numbers 
 # Note: input() always returns a string, so we need to convert to numbers
 print("\n=== Exercise 2: Working with Numbers ===")
-age_string = input("How old are you? ")
-age = int(age_string)  # Convert string to integer
+age_string = input("How old are you? ") 
+age = int(age_string)  # Convert string to integer 
 print("You are", age, "years old")
 print("Next year you will be", age + 1, "years old")
 
