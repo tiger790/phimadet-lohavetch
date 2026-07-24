@@ -1,3 +1,7 @@
+# arithmetic operators --> + - * / % // **
+# comparison operators --> == != < > <= >=
+#logical operatos --> and (&&) or () not (!)
+
 # Multiple conditions with logical operators
 username = "admin"
 password = "12345"
@@ -15,7 +19,7 @@ day = "Saturday"
 if day == "Saturday" or day == "Sunday":
     print("It's weekend!")
 else:
-    print("It's a weekday")
+    print("It's a workday")
 
 # Nested if statements
 weather = "sunny"
