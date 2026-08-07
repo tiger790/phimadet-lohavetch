@@ -11,19 +11,19 @@ print(letters)
 counter = 0 
 
 for char in leters :
-    if char == 'a' oe char == 'A' :
+    if char == 'a' or char == 'A' :
         counter = counter + 1
 
-    elif char == 'e' oe char == 'E' :
+    elif char == 'e' or char == 'E' :
         counter = counter + 1
     
-    elif char == 'i' oe char == 'I' :
+    elif char == 'i' or char == 'I' :
         counter = counter + 1
     
-    elif char == 'o' oe char == 'O' :
+    elif char == 'o' or char == 'O' :
         counter = counter + 1
     
-    elif char == 'u' oe char == 'U' :
+    elif char == 'u' or char == 'U' :
         counter = counter + 1
 a = letters . count('a')
 e = letters . count('e')   
