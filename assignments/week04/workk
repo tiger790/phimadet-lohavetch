@@ -36,4 +36,4 @@ for i in range(6):
 
 print(f"\nBought items: {bought_items}")
 print(f"Total spent: {total}")
-print(f"Remaining budget: {budget - total}") #
+print(f"Remaining budget: {budget - total}") #work
