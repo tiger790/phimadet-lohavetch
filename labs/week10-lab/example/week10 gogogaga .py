@@ -33,4 +33,4 @@ else:
 if lenght >= 8 and len(words) == 2 and left == True and right == True:
     print("Your password ia strong")
 else:
-    print("Your password is not strong!")
+    print("Your password is not strongg!")
